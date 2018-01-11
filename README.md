@@ -1,2 +1,2 @@
 # Tasktop
-Repository for testing Github Issues
+Bob's repository for testing Github Issues
